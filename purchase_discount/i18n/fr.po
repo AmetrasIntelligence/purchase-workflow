@@ -1,24 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * purchase_discount
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2018
-# Quentin THEURET <odoo@kerpeo.com>, 2018
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 11.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-23 17:50+0000\n"
-"PO-Revision-Date: 2020-07-22 12:19+0000\n"
-"Last-Translator: c2cdidier <didier.donze@camptocamp.com>\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.10\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_discount/i18n/purchase_discount.pot\n"
+"X-Crowdin-File-ID: 4416\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:53\n"
 
 #. module: purchase_discount
 #: model_terms:ir.ui.view,arch_db:purchase_discount.report_purchaseorder_document
@@ -28,7 +24,7 @@ msgstr "<strong>Remise (%)</strong>"
 #. module: purchase_discount
 #: model:ir.model,name:purchase_discount.model_res_partner
 msgid "Contact"
-msgstr "Contact"
+msgstr ""
 
 #. module: purchase_discount
 #: model:ir.model.fields,field_description:purchase_discount.field_res_partner__default_supplierinfo_discount
@@ -56,12 +52,12 @@ msgstr "Paramètres des remises sont gérés sur"
 #. module: purchase_discount
 #: model:ir.model,name:purchase_discount.model_purchase_order
 msgid "Purchase Order"
-msgstr "Commandes d'achat"
+msgstr "Bon de commande"
 
 #. module: purchase_discount
 #: model:ir.model,name:purchase_discount.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr "Ligne de commande d'achat"
+msgstr "Ligne de bon de commande"
 
 #. module: purchase_discount
 #: model:ir.model,name:purchase_discount.model_purchase_report
@@ -71,7 +67,7 @@ msgstr "Rapport des commandes"
 #. module: purchase_discount
 #: model:ir.model,name:purchase_discount.model_stock_move
 msgid "Stock Move"
-msgstr "Mouvement de stock"
+msgstr "Mouvement du stock"
 
 #. module: purchase_discount
 #: model:ir.model,name:purchase_discount.model_stock_rule
@@ -81,22 +77,16 @@ msgstr "Règle de stock"
 #. module: purchase_discount
 #: model:ir.model,name:purchase_discount.model_product_supplierinfo
 msgid "Supplier Pricelist"
-msgstr "Liste de prix fournisseur"
+msgstr ""
 
 #. module: purchase_discount
 #: model:ir.model.fields,help:purchase_discount.field_res_partner__default_supplierinfo_discount
 #: model:ir.model.fields,help:purchase_discount.field_res_users__default_supplierinfo_discount
-msgid ""
-"This value will be used as the default one, for each new supplierinfo line "
-"depending on that supplier."
-msgstr ""
-"Cette valeur sera utilisée comme valeur par défaut pour chaque nouvelle "
-"information fournisseur de ce fournisseur."
+msgid "This value will be used as the default one, for each new supplierinfo line depending on that supplier."
+msgstr "Cette valeur sera utilisée comme valeur par défaut pour chaque nouvelle information fournisseur de ce fournisseur."
 
 #. module: purchase_discount
 #: model_terms:ir.ui.view,arch_db:purchase_discount.res_partner_form_view
 msgid "the parent company"
-msgstr "Société parente"
+msgstr ""
 
-#~ msgid "Invoice"
-#~ msgstr "Facture"
