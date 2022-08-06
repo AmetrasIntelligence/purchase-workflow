@@ -1,45 +1,35 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * purchase_order_approved
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 9.0c\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-10 05:30+0000\n"
-"PO-Revision-Date: 2017-06-10 05:30+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_approved/i18n/purchase_order_approved.pot\n"
+"X-Crowdin-File-ID: 4444\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:53\n"
 
 #. module: purchase_order_approved
 #: model_terms:ir.ui.view,arch_db:purchase_order_approved.view_purchase_configuration
-msgid ""
-"<span class=\"fa fa-lg fa-building-o\" title=\"Values set here are company-"
-"specific.\" groups=\"base.group_multi_company\"/>"
-msgstr ""
+msgid "<span class=\"fa fa-lg fa-building-o\" title=\"Values set here are company-specific.\" groups=\"base.group_multi_company\"/>"
+msgstr "<span class=\"fa fa-lg fa-building-o\" title=\"Les valeurs définies ici sont spécifiques à l'entreprise.\" groups=\"base.group_multi_company\"/>"
 
 #. module: purchase_order_approved
 #: model_terms:ir.ui.view,arch_db:purchase_order_approved.view_purchase_configuration
-msgid ""
-"Adds an extra state in purchase orders previous to 'Purchase Order' state."
+msgid "Adds an extra state in purchase orders previous to 'Purchase Order' state."
 msgstr ""
 
 #. module: purchase_order_approved
 #: model:ir.model.fields,help:purchase_order_approved.field_res_company__purchase_approve_active
 #: model:ir.model.fields,help:purchase_order_approved.field_res_config_settings__purchase_approve_active
-msgid ""
-"Adds an extra state in purchase orders previous to 'Purchase Order'. After "
-"confirming and approving a purchase order it will go to state 'Approved'. In "
-"this state the incoming shipments are not created yet and you still can go "
-"back to draft. You can release the creation of the incoming shipments moving "
-"the purchase order to state 'Purchase Order'."
+msgid "Adds an extra state in purchase orders previous to 'Purchase Order'. After confirming and approving a purchase order it will go to state 'Approved'. In this state the incoming shipments are not created yet and you still can go back to draft. You can release the creation of the incoming shipments moving the purchase order to state 'Purchase Order'."
 msgstr ""
 
 #. module: purchase_order_approved
@@ -55,13 +45,12 @@ msgstr ""
 #. module: purchase_order_approved
 #: model:ir.model,name:purchase_order_approved.model_res_company
 msgid "Companies"
-msgstr "Sociétés"
+msgstr "Entreprises"
 
 #. module: purchase_order_approved
 #: model:ir.model.fields,field_description:purchase_order_approved.field_purchase_order__company_id
-#, fuzzy
 msgid "Company"
-msgstr "Sociétés"
+msgstr "entreprise"
 
 #. module: purchase_order_approved
 #: model_terms:ir.ui.view,arch_db:purchase_order_approved.purchase_order_form
@@ -71,7 +60,7 @@ msgstr ""
 #. module: purchase_order_approved
 #: model:ir.model.fields,field_description:purchase_order_approved.field_purchase_order__currency_id
 msgid "Currency"
-msgstr ""
+msgstr "Monnaie"
 
 #. module: purchase_order_approved
 #: model:ir.model.fields,field_description:purchase_order_approved.field_purchase_order__picking_type_id
@@ -80,9 +69,7 @@ msgstr ""
 
 #. module: purchase_order_approved
 #: model:ir.model.fields,help:purchase_order_approved.field_purchase_order__date_order
-msgid ""
-"Depicts the date where the Quotation should be validated and converted into "
-"a purchase order."
+msgid "Depicts the date where the Quotation should be validated and converted into a purchase order."
 msgstr ""
 
 #. module: purchase_order_approved
@@ -93,12 +80,12 @@ msgstr ""
 #. module: purchase_order_approved
 #: model:ir.model.fields,field_description:purchase_order_approved.field_purchase_order__date_order
 msgid "Order Date"
-msgstr ""
+msgstr "Date de commande"
 
 #. module: purchase_order_approved
 #: model:ir.model.fields,field_description:purchase_order_approved.field_purchase_order__order_line
 msgid "Order Lines"
-msgstr ""
+msgstr "Lignes de commande"
 
 #. module: purchase_order_approved
 #: model:ir.model,name:purchase_order_approved.model_res_config_settings
@@ -108,20 +95,16 @@ msgstr ""
 #. module: purchase_order_approved
 #: model:ir.model,name:purchase_order_approved.model_purchase_order
 msgid "Purchase Order"
-msgstr "Commande d'achat"
+msgstr "Bon de commande"
 
 #. module: purchase_order_approved
 #: model:ir.model.fields,help:purchase_order_approved.field_purchase_order__dest_address_id
-msgid ""
-"Put an address if you want to deliver directly from the vendor to the "
-"customer. Otherwise, keep empty to deliver to your own company."
+msgid "Put an address if you want to deliver directly from the vendor to the customer. Otherwise, keep empty to deliver to your own company."
 msgstr ""
 
 #. module: purchase_order_approved
 #: model:ir.model.fields,help:purchase_order_approved.field_purchase_order__origin
-msgid ""
-"Reference of the document that generated this purchase order request (e.g. a "
-"sales order)"
+msgid "Reference of the document that generated this purchase order request (e.g. a sales order)"
 msgstr ""
 
 #. module: purchase_order_approved
@@ -158,3 +141,4 @@ msgstr ""
 #: model:ir.model.fields,help:purchase_order_approved.field_purchase_order__partner_id
 msgid "You can find a vendor by its Name, TIN, Email or Internal Reference."
 msgstr ""
+
