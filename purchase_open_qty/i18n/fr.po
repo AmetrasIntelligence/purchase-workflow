@@ -1,23 +1,20 @@
-# Translation of Odoo Server.
-# This file contains the translation of the following modules:
-# * purchase_open_qty
-#
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: ametras-xsolutions\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-24 07:53+0000\n"
-"PO-Revision-Date: 2020-07-22 12:19+0000\n"
-"Last-Translator: c2cdidier <didier.donze@camptocamp.com>\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.10\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: ametras-xsolutions\n"
+"X-Crowdin-Project-ID: 530964\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_open_qty/i18n/purchase_open_qty.pot\n"
+"X-Crowdin-File-ID: 4438\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-08-06 21:53\n"
 
 #. module: purchase_open_qty
 #: model:ir.model.fields,field_description:purchase_open_qty.field_purchase_order__pending_qty_to_invoice
@@ -31,7 +28,7 @@ msgstr "Qté à facturer en attente"
 #: model_terms:ir.ui.view,arch_db:purchase_open_qty.purchase_order_line_search
 #: model_terms:ir.ui.view,arch_db:purchase_open_qty.view_purchase_order_filter
 msgid "Pending Qty to Receive"
-msgstr "Qté à recevoir en attente"
+msgstr ""
 
 #. module: purchase_open_qty
 #: model:ir.model,name:purchase_open_qty.model_purchase_order
@@ -41,7 +38,7 @@ msgstr "Bon de commande"
 #. module: purchase_open_qty
 #: model:ir.model,name:purchase_open_qty.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr "Ligne de commande d'achat"
+msgstr "Ligne de bon de commande"
 
 #. module: purchase_open_qty
 #: model:ir.model.fields,field_description:purchase_open_qty.field_purchase_order__qty_to_invoice
@@ -57,6 +54,8 @@ msgstr "Qté à recevoir"
 
 #. module: purchase_open_qty
 #: code:addons/purchase_open_qty/models/purchase_order.py:0
+#: code:addons/purchase_open_qty/models/purchase_order.py:0
 #, python-format
 msgid "Unsupported search operator"
 msgstr "Opération de recherche non supportée"
+
