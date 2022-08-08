@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_blanket_order/i18n/purchase_blanket_order.pot\n"
 "X-Crowdin-File-ID: 4402\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:58\n"
+"PO-Revision-Date: 2022-08-08 02:10\n"
 
 #. module: purchase_blanket_order
 #: model_terms:ir.ui.view,arch_db:purchase_blanket_order.report_blanketorder_document
@@ -401,7 +401,7 @@ msgstr "Fehler beim Versenden der Nachrichten"
 #: model:ir.model.fields,field_description:purchase_blanket_order.field_purchase_blanket_order__message_ids
 #: model:ir.model.fields,field_description:purchase_blanket_order.field_purchase_blanket_order_line__message_ids
 msgid "Messages"
-msgstr "Mitteilungen"
+msgstr "Nachrichten"
 
 #. module: purchase_blanket_order
 #: code:addons/purchase_blanket_order/models/blanket_orders.py:0
