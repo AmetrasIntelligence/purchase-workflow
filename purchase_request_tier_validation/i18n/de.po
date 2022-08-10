@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_request_tier_validation/i18n/purchase_request_tier_validation.pot\n"
 "X-Crowdin-File-ID: 4534\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:54\n"
+"PO-Revision-Date: 2022-08-10 14:00\n"
 
 #. module: purchase_request_tier_validation
 #: model_terms:ir.ui.view,arch_db:purchase_request_tier_validation.view_purchase_request_form_inherit_tier
@@ -35,7 +35,7 @@ msgstr ""
 #. module: purchase_request_tier_validation
 #: model_terms:ir.ui.view,arch_db:purchase_request_tier_validation.view_purchase_request_form_inherit_tier
 msgid "Confirm"
-msgstr "bestätigen"
+msgstr "Bestätigen"
 
 #. module: purchase_request_tier_validation
 #: model_terms:ir.ui.view,arch_db:purchase_request_tier_validation.tier_review_form_wiz
