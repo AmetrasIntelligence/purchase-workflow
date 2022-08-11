@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_product_usage/i18n/purchase_product_usage.pot\n"
 "X-Crowdin-File-ID: 4516\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 23:58\n"
+"PO-Revision-Date: 2022-08-11 09:54\n"
 
 #. module: purchase_product_usage
 #: model:ir.model.fields,field_description:purchase_product_usage.field_purchase_product_usage__account_id
@@ -29,7 +29,7 @@ msgstr "Aktiv"
 #. module: purchase_product_usage
 #: model_terms:ir.ui.view,arch_db:purchase_product_usage.view_purchase_product_usage_search
 msgid "Archived"
-msgstr ""
+msgstr "Archiviert"
 
 #. module: purchase_product_usage
 #: model:ir.model.fields,field_description:purchase_product_usage.field_purchase_product_usage__code
