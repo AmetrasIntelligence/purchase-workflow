@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_archive/i18n/purchase_order_archive.pot\n"
 "X-Crowdin-File-ID: 4446\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:53\n"
+"PO-Revision-Date: 2022-08-11 09:54\n"
 
 #. module: purchase_order_archive
 #: model:ir.model.fields,field_description:purchase_order_archive.field_purchase_order__active
@@ -24,7 +24,7 @@ msgstr "Aktiv"
 #. module: purchase_order_archive
 #: model_terms:ir.ui.view,arch_db:purchase_order_archive.view_purchase_order_archive_filter
 msgid "Archived"
-msgstr ""
+msgstr "Archiviert"
 
 #. module: purchase_order_archive
 #: code:addons/purchase_order_archive/models/purchase_order.py:0
