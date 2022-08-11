@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_blanket_order/i18n/purchase_blanket_order.pot\n"
 "X-Crowdin-File-ID: 4402\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-08 22:55\n"
+"PO-Revision-Date: 2022-08-11 14:47\n"
 
 #. module: purchase_blanket_order
 #: model_terms:ir.ui.view,arch_db:purchase_blanket_order.report_blanketorder_document
@@ -682,7 +682,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:purchase_blanket_order.field_purchase_blanket_order_wizard_line__date_schedule
 #: model_terms:ir.ui.view,arch_db:purchase_blanket_order.report_blanketorder_document
 msgid "Scheduled Date"
-msgstr ""
+msgstr "Geplantes Datum"
 
 #. module: purchase_blanket_order
 #: model_terms:ir.ui.view,arch_db:purchase_blanket_order.purchase_blanket_order_line_search
