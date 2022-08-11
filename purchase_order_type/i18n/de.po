@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_type/i18n/purchase_order_type.pot\n"
 "X-Crowdin-File-ID: 4506\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 09:54\n"
+"PO-Revision-Date: 2022-08-11 14:47\n"
 
 #. module: purchase_order_type
 #: model:ir.model.fields,field_description:purchase_order_type.field_purchase_order_type__active
@@ -113,7 +113,7 @@ msgstr "Name"
 #. module: purchase_order_type
 #: model_terms:ir.ui.view,arch_db:purchase_order_type.view_purchase_order_type_search
 msgid "Payment Term"
-msgstr ""
+msgstr "Zahlungsbedingung"
 
 #. module: purchase_order_type
 #: model:ir.model.fields,field_description:purchase_order_type.field_purchase_order_type__payment_term_id
