@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_request/i18n/purchase_request.pot\n"
 "X-Crowdin-File-ID: 4526\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 15:48\n"
+"PO-Revision-Date: 2022-08-12 08:09\n"
 
 #. module: purchase_request
 #: code:addons/purchase_request/models/purchase_order.py:0
@@ -686,7 +686,7 @@ msgstr "Produkt Mengeneinheit"
 #: model_terms:ir.ui.view,arch_db:purchase_request.report_purchase_request
 #: model_terms:ir.ui.view,arch_db:purchase_request.view_purchase_request_form
 msgid "Products"
-msgstr ""
+msgstr "Produkte"
 
 #. module: purchase_request
 #: model:ir.model.fields,field_description:purchase_request.field_purchase_request__line_ids
