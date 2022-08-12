@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_work_acceptance/i18n/purchase_work_acceptance.pot\n"
 "X-Crowdin-File-ID: 4556\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 15:49\n"
+"PO-Revision-Date: 2022-08-12 08:09\n"
 
 #. module: purchase_work_acceptance
 #: code:addons/purchase_work_acceptance/wizard/select_work_acceptance_wizard.py:0
@@ -385,7 +385,7 @@ msgstr "Produkt Mengeneinheit"
 #. module: purchase_work_acceptance
 #: model_terms:ir.ui.view,arch_db:purchase_work_acceptance.view_work_acceptance_form
 msgid "Products"
-msgstr ""
+msgstr "Produkte"
 
 #. module: purchase_work_acceptance
 #: model:ir.model,name:purchase_work_acceptance.model_purchase_order
