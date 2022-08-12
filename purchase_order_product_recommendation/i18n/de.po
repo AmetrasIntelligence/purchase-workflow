@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_product_recommendation/i18n/purchase_order_product_recommendation.pot\n"
 "X-Crowdin-File-ID: 4458\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:54\n"
+"PO-Revision-Date: 2022-08-12 08:09\n"
 
 #. module: purchase_order_product_recommendation
 #: model_terms:ir.ui.view,arch_db:purchase_order_product_recommendation.purchase_order_recommendation_view_form
@@ -148,7 +148,7 @@ msgstr ""
 #. module: purchase_order_product_recommendation
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation.field_purchase_order_recommendation__line_ids
 msgid "Products"
-msgstr ""
+msgstr "Produkte"
 
 #. module: purchase_order_product_recommendation
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation.field_purchase_order_recommendation_line__purchase_line_id
