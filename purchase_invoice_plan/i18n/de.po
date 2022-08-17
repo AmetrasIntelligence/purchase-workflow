@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_invoice_plan/i18n/purchase_invoice_plan.pot\n"
 "X-Crowdin-File-ID: 4422\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:53\n"
+"PO-Revision-Date: 2022-08-17 09:22\n"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.purchase_order_form
@@ -297,7 +297,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_invoice_plan__partner_id
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
 msgid "Supplier"
-msgstr ""
+msgstr "Lieferant"
 
 #. module: purchase_invoice_plan
 #: code:addons/purchase_invoice_plan/models/purchase.py:0
