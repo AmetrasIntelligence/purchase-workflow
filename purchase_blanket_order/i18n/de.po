@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_blanket_order/i18n/purchase_blanket_order.pot\n"
 "X-Crowdin-File-ID: 4402\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 15:25\n"
+"PO-Revision-Date: 2022-08-17 16:35\n"
 
 #. module: purchase_blanket_order
 #: model_terms:ir.ui.view,arch_db:purchase_blanket_order.report_blanketorder_document
@@ -260,7 +260,7 @@ msgstr "Anzeigename"
 #. module: purchase_blanket_order
 #: model:ir.model.fields.selection,name:purchase_blanket_order.selection__purchase_blanket_order__state__done
 msgid "Done"
-msgstr ""
+msgstr "Erledigt"
 
 #. module: purchase_blanket_order
 #: model:ir.model.fields.selection,name:purchase_blanket_order.selection__purchase_blanket_order__state__draft
