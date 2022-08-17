@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_request/i18n/purchase_request.pot\n"
 "X-Crowdin-File-ID: 4526\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 09:22\n"
+"PO-Revision-Date: 2022-08-17 14:23\n"
 
 #. module: purchase_request
 #: code:addons/purchase_request/models/purchase_order.py:0
@@ -1264,7 +1264,7 @@ msgstr "Zähler für ungelesene Nachrichten"
 #: model:ir.model.fields,field_description:purchase_request.field_purchase_request_allocation__product_uom_id
 #: model:ir.model.fields,field_description:purchase_request.field_purchase_request_line_make_purchase_order_item__product_uom_id
 msgid "UoM"
-msgstr ""
+msgstr "Maßeinheit"
 
 #. module: purchase_request
 #: model_terms:ir.ui.view,arch_db:purchase_request.purchase_order_line_search_sub
