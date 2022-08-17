@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_landed_cost/i18n/purchase_landed_cost.pot\n"
 "X-Crowdin-File-ID: 4426\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 12:24\n"
+"PO-Revision-Date: 2022-08-17 09:22\n"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_expense__affected_lines
@@ -677,7 +677,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_picking_import_wizard__supplier
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_line__partner
 msgid "Supplier"
-msgstr ""
+msgstr "Lieferant"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_expense__invoice_line
