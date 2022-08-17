@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_line_menu/i18n/purchase_order_line_menu.pot\n"
 "X-Crowdin-File-ID: 4448\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:54\n"
+"PO-Revision-Date: 2022-08-17 15:25\n"
 
 #. module: purchase_order_line_menu
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_menu.view_purchase_order_line_pivot
@@ -25,5 +25,5 @@ msgstr "Bestellzeilen"
 #: model:ir.actions.act_window,name:purchase_order_line_menu.action_purchase_orders_lines
 #: model:ir.ui.menu,name:purchase_order_line_menu.purchase_order_line_menu
 msgid "Purchase Order Lines"
-msgstr ""
+msgstr "Bestellungszeilen"
 
