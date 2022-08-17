@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_request/i18n/purchase_request.pot\n"
 "X-Crowdin-File-ID: 4526\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 15:25\n"
+"PO-Revision-Date: 2022-08-17 16:35\n"
 
 #. module: purchase_request
 #: code:addons/purchase_request/models/purchase_order.py:0
@@ -340,7 +340,7 @@ msgstr "Anzeigename"
 #: model_terms:ir.ui.view,arch_db:purchase_request.view_purchase_request_form
 #: model_terms:ir.ui.view,arch_db:purchase_request.view_purchase_request_search
 msgid "Done"
-msgstr ""
+msgstr "Erledigt"
 
 #. module: purchase_request
 #: model:ir.model.fields,field_description:purchase_request.field_purchase_request_line__move_dest_ids
