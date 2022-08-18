@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_product_usage/i18n/purchase_product_usage.pot\n"
 "X-Crowdin-File-ID: 4516\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-11 09:54\n"
+"PO-Revision-Date: 2022-08-18 14:23\n"
 
 #. module: purchase_product_usage
 #: model:ir.model.fields,field_description:purchase_product_usage.field_purchase_product_usage__account_id
@@ -54,7 +54,7 @@ msgstr "Erstellt am"
 #. module: purchase_product_usage
 #: model:ir.model.fields,field_description:purchase_product_usage.field_purchase_product_usage__product_id
 msgid "Default Product"
-msgstr ""
+msgstr "Standardartikel"
 
 #. module: purchase_product_usage
 #: model:res.groups,name:purchase_product_usage.group_purchase_product_usage
@@ -104,12 +104,12 @@ msgstr "Zuletzt aktualisiert am"
 #. module: purchase_product_usage
 #: model:ir.model,name:purchase_product_usage.model_purchase_product_usage
 msgid "Product Usage"
-msgstr ""
+msgstr "Artikelverwendung"
 
 #. module: purchase_product_usage
 #: model_terms:ir.ui.view,arch_db:purchase_product_usage.purchase_product_usage_form
 msgid "Product usage"
-msgstr ""
+msgstr "Artikelverwendung"
 
 #. module: purchase_product_usage
 #: model:ir.model,name:purchase_product_usage.model_purchase_order_line
@@ -121,20 +121,20 @@ msgstr "Angebotsanfragen Position"
 #: model:ir.ui.menu,name:purchase_product_usage.menu_purchase_product_usage
 #: model_terms:ir.ui.view,arch_db:purchase_product_usage.purchase_product_usage_tree
 msgid "Purchase Product Usages"
-msgstr ""
+msgstr "Einkauf Artikelverwendung"
 
 #. module: purchase_product_usage
 #: model:ir.model.fields,help:purchase_product_usage.field_purchase_product_usage__product_id
 msgid "Purchase this product by default"
-msgstr ""
+msgstr "Diesen Artikel standardmäßig kaufen"
 
 #. module: purchase_product_usage
 #: model:ir.model.fields,field_description:purchase_product_usage.field_purchase_order_line__usage_id
 msgid "Usage"
-msgstr ""
+msgstr "Verwendung"
 
 #. module: purchase_product_usage
 #: model_terms:ir.ui.view,arch_db:purchase_product_usage.view_purchase_product_usage_search
 msgid "Usages"
-msgstr ""
+msgstr "Verwendungen"
 
