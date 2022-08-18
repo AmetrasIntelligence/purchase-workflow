@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_landed_cost/i18n/purchase_landed_cost.pot\n"
 "X-Crowdin-File-ID: 4426\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 10:13\n"
+"PO-Revision-Date: 2022-08-18 11:13\n"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_expense__affected_lines
@@ -526,7 +526,7 @@ msgstr ""
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_line__standard_price_old
 msgid "Previous cost"
-msgstr ""
+msgstr "Vorherige Kosten"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_line__product_id
@@ -536,12 +536,12 @@ msgstr "Produkt"
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.view_purchase_cost_distribution_line_form
 msgid "Product information"
-msgstr ""
+msgstr "Produktinformationen"
 
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.view_purchase_cost_distribution_line_form
 msgid "Purchase Cost Line"
-msgstr ""
+msgstr "Einkauf Kosten Zeile"
 
 #. module: purchase_landed_cost
 #: model:ir.model,name:purchase_landed_cost.model_purchase_order
@@ -553,54 +553,54 @@ msgstr "Bestellung"
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.view_purchase_cost_distribution_calendar
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.view_purchase_cost_distribution_graph
 msgid "Purchase cost distribution"
-msgstr ""
+msgstr "Einkauf Kosten Verteilung"
 
 #. module: purchase_landed_cost
 #: model:ir.model,name:purchase_landed_cost.model_purchase_cost_distribution_line
 msgid "Purchase cost distribution Line"
-msgstr ""
+msgstr "Einkauf Kosten Verteilung Zeile"
 
 #. module: purchase_landed_cost
 #: model:ir.model,name:purchase_landed_cost.model_purchase_cost_distribution_expense
 msgid "Purchase cost distribution expense"
-msgstr ""
+msgstr "Einkauf Kosten Verteilung Aufwendungen"
 
 #. module: purchase_landed_cost
 #: model:ir.model,name:purchase_landed_cost.model_purchase_cost_distribution_line_expense
 msgid "Purchase cost distribution line expense"
-msgstr ""
+msgstr "Einkauf Kosten Verteilung Zeile Aufwendungen"
 
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.view_purchase_cost_distribution_line_expense_tree
 msgid "Purchase cost distribution lines"
-msgstr ""
+msgstr "Einkauf Kosten Verteilung Zeilen"
 
 #. module: purchase_landed_cost
 #: model:ir.actions.act_window,name:purchase_landed_cost.action_purchase_cost_distribution
 #: model:ir.ui.menu,name:purchase_landed_cost.menu_purchase_cost_distribution
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.view_purchase_cost_distribution_tree
 msgid "Purchase cost distributions"
-msgstr ""
+msgstr "Einkauf Kosten Verteilungen"
 
 #. module: purchase_landed_cost
 #: model:ir.model,name:purchase_landed_cost.model_purchase_expense_type
 msgid "Purchase cost type"
-msgstr ""
+msgstr "Einkauf Kosten Art"
 
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.purchase_expense_type_tree
 msgid "Purchase expense types"
-msgstr ""
+msgstr "Einkauf Aufwendung Arten"
 
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.view_purchase_cost_distribution_line_form
 msgid "Purchase information"
-msgstr ""
+msgstr "Einkaufsinformationen"
 
 #. module: purchase_landed_cost
 #: model:ir.model,name:purchase_landed_cost.model_purchase_cost_distribution
 msgid "Purchase landed costs distribution"
-msgstr ""
+msgstr "Einkauf Einstandskosten Verteilung"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_line__purchase_id
@@ -625,7 +625,7 @@ msgstr "Menge"
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.purchase_cost_distribution_form
 msgid "Recalculate"
-msgstr ""
+msgstr "Neu berechnen"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_expense__ref
@@ -655,12 +655,12 @@ msgstr ""
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.purchase_cost_distribution_form
 msgid "Set done"
-msgstr ""
+msgstr "Als Erledigt markieren"
 
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.purchase_cost_distribution_form
 msgid "Set draft"
-msgstr ""
+msgstr "Setze auf Entwurf"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,help:purchase_landed_cost.field_purchase_expense_type__default_expense
@@ -698,7 +698,7 @@ msgstr ""
 #. module: purchase_landed_cost
 #: model:ir.model.fields,help:purchase_landed_cost.field_purchase_cost_distribution_line__product_weight
 msgid "The gross weight in Kg."
-msgstr ""
+msgstr "Das Bruttogewicht in Kg."
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,help:purchase_landed_cost.field_purchase_cost_distribution_line__total_weight
@@ -713,7 +713,7 @@ msgstr ""
 #. module: purchase_landed_cost
 #: model:ir.model.fields,help:purchase_landed_cost.field_purchase_cost_distribution_line__product_volume
 msgid "The volume in m3."
-msgstr ""
+msgstr "Das Volumen in m3."
 
 #. module: purchase_landed_cost
 #: code:addons/purchase_landed_cost/models/purchase_cost_distribution.py:0
@@ -729,17 +729,17 @@ msgstr "Gesamt"
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.view_purchase_cost_distribution_line_form
 msgid "Total Expenses"
-msgstr ""
+msgstr "Gesamtaufwendungen"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution__total_expense
 msgid "Total expenses"
-msgstr ""
+msgstr "Gesamtaufwendungen"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution__total_weight
 msgid "Total gross weight"
-msgstr ""
+msgstr "Gesamtes Bruttogewicht"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution__total_price_unit
@@ -749,28 +749,28 @@ msgstr ""
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution__total_purchase
 msgid "Total purchase"
-msgstr ""
+msgstr "Gesamt Einkauf"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution__total_uom_qty
 msgid "Total quantity"
-msgstr ""
+msgstr "Gesamt Menge"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution__total_volume
 msgid "Total volume"
-msgstr ""
+msgstr "Gesamt Volumen"
 
 #. module: purchase_landed_cost
 #: model:ir.model,name:purchase_landed_cost.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "Bewegungen"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_line__cost_ratio
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_line_expense__cost_ratio
 msgid "Unit cost"
-msgstr ""
+msgstr "Stückkosten"
 
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_line__product_uom
@@ -780,7 +780,7 @@ msgstr "Mengeneinheit"
 #. module: purchase_landed_cost
 #: model:ir.model.fields,field_description:purchase_landed_cost.field_purchase_cost_distribution_line__product_price_unit
 msgid "Unit price"
-msgstr ""
+msgstr "Stückpreis"
 
 #. module: purchase_landed_cost
 #: model_terms:ir.actions.act_window,help:purchase_landed_cost.action_purchase_cost_distribution
@@ -803,7 +803,7 @@ msgstr "Volumen"
 #. module: purchase_landed_cost
 #: model_terms:ir.ui.view,arch_db:purchase_landed_cost.view_purchase_cost_distribution_line_form
 msgid "Warehouse information"
-msgstr ""
+msgstr "Lager Information"
 
 #. module: purchase_landed_cost
 #: model_terms:ir.actions.act_window,help:purchase_landed_cost.action_purchase_cost_distribution
