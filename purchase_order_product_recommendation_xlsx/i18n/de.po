@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_product_recommendation_xlsx/i18n/purchase_order_product_recommendation_xlsx.pot\n"
 "X-Crowdin-File-ID: 4462\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 10:13\n"
+"PO-Revision-Date: 2022-08-18 14:23\n"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model,name:purchase_order_product_recommendation_xlsx.model_report_purchase_order_product_recommendation_xlsx_summary
@@ -25,13 +25,13 @@ msgstr ""
 #: code:addons/purchase_order_product_recommendation_xlsx/report/recommendation_xlsx.py:0
 #, python-format
 msgid "Date begin:"
-msgstr ""
+msgstr "Startdatum:"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: code:addons/purchase_order_product_recommendation_xlsx/report/recommendation_xlsx.py:0
 #, python-format
 msgid "Date end:"
-msgstr ""
+msgstr "Enddatum:"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation_xlsx.field_report_purchase_order_product_recommendation_xlsx_summary__display_name
@@ -41,12 +41,12 @@ msgstr "Anzeigename"
 #. module: purchase_order_product_recommendation_xlsx
 #: model_terms:ir.ui.view,arch_db:purchase_order_product_recommendation_xlsx.purchase_order_recommendation_view_form
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation_xlsx.field_purchase_order_recommendation_line__units_virtual_available
 msgid "Forecasted Qty"
-msgstr ""
+msgstr "Geplante Bestandsmenge"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation_xlsx.field_report_purchase_order_product_recommendation_xlsx_summary__id
@@ -78,24 +78,24 @@ msgstr "Produkt"
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.actions.report,name:purchase_order_product_recommendation_xlsx.recommendation_xlsx
 msgid "Product Recommendation XLSX"
-msgstr ""
+msgstr "Produktempfehlung XLSX"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: code:addons/purchase_order_product_recommendation_xlsx/report/recommendation_xlsx.py:0
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation_xlsx.field_purchase_order_recommendation_line__units_included
 #, python-format
 msgid "Qty"
-msgstr ""
+msgstr "Menge"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation_xlsx.field_purchase_order_recommendation_line__units_avg_delivered
 msgid "Qty Dlvd./day"
-msgstr ""
+msgstr "gel. Menge/Tag"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation_xlsx.field_purchase_order_recommendation_line__units_available
 msgid "Qty On Hand"
-msgstr ""
+msgstr "Verfügbare Menge"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation_xlsx.field_purchase_order_recommendation_line__units_received
@@ -105,17 +105,17 @@ msgstr "Menge erhalten"
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation_xlsx.field_purchase_order_recommendation_line__units_delivered
 msgid "Qty delivered"
-msgstr ""
+msgstr "Liefermenge"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model,name:purchase_order_product_recommendation_xlsx.model_purchase_order_recommendation_line
 msgid "Recommended product for current purchase order"
-msgstr ""
+msgstr "Empfohlener Artikel für aktuelle Bestellung"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: model:ir.model,name:purchase_order_product_recommendation_xlsx.model_purchase_order_recommendation
 msgid "Recommended products for current purchase order"
-msgstr ""
+msgstr "Empfohlene Artikel für aktuelle Bestellung"
 
 #. module: purchase_order_product_recommendation_xlsx
 #: code:addons/purchase_order_product_recommendation_xlsx/report/recommendation_xlsx.py:0
