@@ -14,17 +14,17 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_exception/i18n/purchase_exception.pot\n"
 "X-Crowdin-File-ID: 4418\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:53\n"
+"PO-Revision-Date: 2022-08-18 10:13\n"
 
 #. module: purchase_exception
 #: model:ir.model.fields,field_description:purchase_exception.field_exception_rule__model
 msgid "Apply on"
-msgstr ""
+msgstr "Anwenden auf"
 
 #. module: purchase_exception
 #: model_terms:ir.ui.view,arch_db:purchase_exception.view_purchase_order_filter
 msgid "Blocked in Draft"
-msgstr ""
+msgstr "In Entwurf blockiert"
 
 #. module: purchase_exception
 #: model:ir.model.fields,field_description:purchase_exception.field_purchase_exception_confirm__create_uid
@@ -44,17 +44,17 @@ msgstr "Anzeigename"
 #. module: purchase_exception
 #: model:ir.model,name:purchase_exception.model_exception_rule
 msgid "Exception Rule"
-msgstr ""
+msgstr "Ausnahmeregel"
 
 #. module: purchase_exception
 #: model:ir.ui.menu,name:purchase_exception.menu_purchase_exception_parent
 msgid "Exceptions"
-msgstr ""
+msgstr "Ausnahmen"
 
 #. module: purchase_exception
 #: model:ir.model.fields,field_description:purchase_exception.field_purchase_exception_confirm__exception_ids
 msgid "Exceptions to resolve"
-msgstr ""
+msgstr "Zu lösende Ausnahmen"
 
 #. module: purchase_exception
 #: model:ir.model.fields,field_description:purchase_exception.field_purchase_exception_confirm__id
@@ -65,7 +65,7 @@ msgstr "ID"
 #: model:ir.model.fields,field_description:purchase_exception.field_purchase_exception_confirm__ignore
 #: model:ir.model.fields,field_description:purchase_exception.field_purchase_order_line__ignore_exception
 msgid "Ignore Exceptions"
-msgstr ""
+msgstr "Ausnahmen ignorieren"
 
 #. module: purchase_exception
 #: model:ir.model.fields,field_description:purchase_exception.field_purchase_exception_confirm____last_update
@@ -85,17 +85,17 @@ msgstr "Zuletzt aktualisiert am"
 #. module: purchase_exception
 #: model:exception.rule,description:purchase_exception.po_excep_no_email
 msgid "No Email for Vendor"
-msgstr ""
+msgstr "Keine E-Mail für Anbieter"
 
 #. module: purchase_exception
 #: model:exception.rule,name:purchase_exception.po_excep_no_email
 msgid "No email on vendor"
-msgstr ""
+msgstr "Keine E-Mail an Anbieter"
 
 #. module: purchase_exception
 #: model:ir.actions.act_window,name:purchase_exception.action_purchase_exception_confirm
 msgid "Outstanding exceptions to manage"
-msgstr ""
+msgstr "Ausstehende Ausnahmen zum verwalten"
 
 #. module: purchase_exception
 #: model:ir.model.fields,field_description:purchase_exception.field_purchase_exception_confirm__related_model_id
@@ -106,7 +106,7 @@ msgstr "Einkauf"
 #: model:ir.actions.act_window,name:purchase_exception.action_purchase_test_tree
 #: model:ir.ui.menu,name:purchase_exception.menu_purchase_test
 msgid "Purchase Exception Rules"
-msgstr ""
+msgstr "Ausnahmeregeln für Einkäufe"
 
 #. module: purchase_exception
 #: model:ir.model,name:purchase_exception.model_purchase_order
@@ -126,17 +126,17 @@ msgstr ""
 #. module: purchase_exception
 #: model:exception.rule,description:purchase_exception.pol_excep_qty_check
 msgid "Purchase line quantity must be positive"
-msgstr ""
+msgstr "Die Menge der Einkaufszeile muss positiv sein"
 
 #. module: purchase_exception
 #: model:ir.model.fields.selection,name:purchase_exception.selection__exception_rule__model__purchase_order
 msgid "Purchase order"
-msgstr ""
+msgstr "Bestellung"
 
 #. module: purchase_exception
 #: model:ir.model.fields.selection,name:purchase_exception.selection__exception_rule__model__purchase_order_line
 msgid "Purchase order line"
-msgstr ""
+msgstr "Bestellzeile"
 
 #. module: purchase_exception
 #: model:ir.actions.server,name:purchase_exception.ir_cron_test_po_order_except_ir_actions_server
@@ -148,12 +148,12 @@ msgstr ""
 #. module: purchase_exception
 #: model:ir.model.fields,field_description:purchase_exception.field_exception_rule__purchase_ids
 msgid "Purchases"
-msgstr ""
+msgstr "Einkäufe"
 
 #. module: purchase_exception
 #: model:exception.rule,name:purchase_exception.pol_excep_qty_check
 msgid "Quantity not positive"
-msgstr ""
+msgstr "Menge ist nicht positiv"
 
 #. module: purchase_exception
 #: model_terms:ir.ui.view,arch_db:purchase_exception.view_order_form
