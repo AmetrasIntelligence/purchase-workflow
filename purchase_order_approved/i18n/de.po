@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_approved/i18n/purchase_order_approved.pot\n"
 "X-Crowdin-File-ID: 4444\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 15:25\n"
+"PO-Revision-Date: 2022-08-18 10:13\n"
 
 #. module: purchase_order_approved
 #: model_terms:ir.ui.view,arch_db:purchase_order_approved.view_purchase_configuration
@@ -140,5 +140,5 @@ msgstr "Lieferant"
 #. module: purchase_order_approved
 #: model:ir.model.fields,help:purchase_order_approved.field_purchase_order__partner_id
 msgid "You can find a vendor by its Name, TIN, Email or Internal Reference."
-msgstr ""
+msgstr "Sie können einen Hersteller nach Name, TIN, E-Mail oder Interne Referenz finden."
 
