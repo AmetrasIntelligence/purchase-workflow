@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_invoice_plan/i18n/purchase_invoice_plan.pot\n"
 "X-Crowdin-File-ID: 4422\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 15:25\n"
+"PO-Revision-Date: 2022-08-18 10:13\n"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.purchase_order_form
 msgid "Are you sure to remove this invoice plan?"
-msgstr ""
+msgstr "Wollen Sie diesen Rechnungslauf wirklich entfernen?"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,help:purchase_invoice_plan.field_purchase_order__ip_invoice_plan
@@ -29,12 +29,12 @@ msgstr ""
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_make_planned_invoice
 msgid "Bill Purchase Order"
-msgstr ""
+msgstr "Bestellung abrechnen"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
 msgid "Bills Received"
-msgstr ""
+msgstr "Rechnungen erhalten"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_make_planned_invoice
@@ -51,23 +51,23 @@ msgstr "Abbrechen"
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_make_planned_invoice
 msgid "Create All Remaining Bills"
-msgstr ""
+msgstr "Erstelle alle verbleibenden Rechnungen"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.purchase_order_form
 msgid "Create Bill by Plan"
-msgstr ""
+msgstr "Rechnung nach Plan erstellen"
 
 #. module: purchase_invoice_plan
 #: model:ir.actions.act_window,name:purchase_invoice_plan.action_purchase_create_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_create_invoice_plan
 msgid "Create Invoice Plan"
-msgstr ""
+msgstr "Rechnungslauf erstellen"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_make_planned_invoice
 msgid "Create Next Bill"
-msgstr ""
+msgstr "Nächste Rechnung erstellen"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_create_invoice_plan__create_uid
@@ -86,7 +86,7 @@ msgstr "Erstellt am"
 #. module: purchase_invoice_plan
 #: model:ir.model.fields.selection,name:purchase_invoice_plan.selection__purchase_create_invoice_plan__interval_type__day
 msgid "Day"
-msgstr ""
+msgstr "Tag"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_create_invoice_plan__display_name
@@ -98,7 +98,7 @@ msgstr "Anzeigename"
 #. module: purchase_invoice_plan
 #: model:ir.model,name:purchase_invoice_plan.model_purchase_create_invoice_plan
 msgid "Fillig invoice planning criteria"
-msgstr ""
+msgstr "Kriterien des Rechnungslaufs ausfüllen"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
@@ -115,24 +115,24 @@ msgstr "ID"
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,help:purchase_invoice_plan.field_purchase_invoice_plan__invoiced
 msgid "If this line already invoiced"
-msgstr ""
+msgstr "Wenn diese Zeile bereits in Rechnung gestellt ist"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,help:purchase_invoice_plan.field_purchase_invoice_plan__to_invoice
 msgid "If this line is ready to create new invoice"
-msgstr ""
+msgstr "Wenn diese Zeile bereit ist, eine neue Rechnung zu erstellen"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_invoice_plan__installment
 #: model:ir.model.fields.selection,name:purchase_invoice_plan.selection__purchase_invoice_plan__invoice_type__installment
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
 msgid "Installment"
-msgstr ""
+msgstr "Teilzahlung"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_create_invoice_plan__installment_date
 msgid "Installment Date"
-msgstr ""
+msgstr "Datum der Teilzahlung"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_create_invoice_plan__interval
@@ -147,28 +147,28 @@ msgstr ""
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_invoice_plan__invoiced
 msgid "Invoice Created"
-msgstr ""
+msgstr "Rechnung erstellt"
 
 #. module: purchase_invoice_plan
 #: model:ir.actions.act_window,name:purchase_invoice_plan.action_view_purchase_make_planned_invoice
 msgid "Invoice Order"
-msgstr ""
+msgstr "Rechnung Bestellung"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_order__invoice_plan_ids
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.purchase_order_form
 msgid "Invoice Plan"
-msgstr ""
+msgstr "Rechnungslauf"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_order__ip_invoice_plan
 msgid "Invoice Plan In Process"
-msgstr ""
+msgstr "Rechnungslauf wird bearbeitet"
 
 #. module: purchase_invoice_plan
 #: model:ir.model,name:purchase_invoice_plan.model_purchase_invoice_plan
 msgid "Invoice Planning Detail"
-msgstr ""
+msgstr "Rechnungslauf Details"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_invoice_plan__invoice_ids
@@ -199,7 +199,7 @@ msgstr "Zuletzt aktualisiert am"
 #. module: purchase_invoice_plan
 #: model:ir.model.fields.selection,name:purchase_invoice_plan.selection__purchase_create_invoice_plan__interval_type__month
 msgid "Month"
-msgstr ""
+msgstr "Monat"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_invoice_plan__to_invoice
@@ -210,22 +210,22 @@ msgstr "Nächste Rechnung"
 #: code:addons/purchase_invoice_plan/wizard/purchase_create_invoice_plan.py:0
 #, python-format
 msgid "Number Installment must greater than 1"
-msgstr ""
+msgstr "Anzahl der Teilzahlungen muss größer als 1 sein"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_create_invoice_plan__num_installment
 msgid "Number of Installment"
-msgstr ""
+msgstr "Anzahl der Teilzahlungen"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_invoice_plan__percent
 msgid "Percent"
-msgstr ""
+msgstr "Prozent"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_invoice_plan__plan_date
 msgid "Plan Date"
-msgstr ""
+msgstr "Geplantes Datum"
 
 #. module: purchase_invoice_plan
 #: code:addons/purchase_invoice_plan/models/purchase.py:0
@@ -238,13 +238,13 @@ msgstr ""
 #: code:addons/purchase_invoice_plan/models/purchase.py:0
 #, python-format
 msgid "Please fill percentage for all invoice plan lines"
-msgstr ""
+msgstr "Bitte Prozentsatz für alle Rechnungslaufzeilen ausfüllen"
 
 #. module: purchase_invoice_plan
 #: model:ir.actions.act_window,name:purchase_invoice_plan.action_purchase_invoice_plan
 #: model:ir.ui.menu,name:purchase_invoice_plan.menu_purchase_invoice_plan
 msgid "Purchase Invoice Plan"
-msgstr ""
+msgstr "Einkauf Rechnungslauf"
 
 #. module: purchase_invoice_plan
 #: model:ir.model,name:purchase_invoice_plan.model_purchase_order
@@ -255,32 +255,32 @@ msgstr "Bestellung"
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
 msgid "Purchase Orders"
-msgstr ""
+msgstr "Bestellungen"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
 msgid "Purchase orders that have been invoiced."
-msgstr ""
+msgstr "Bestellungen, die abgerechnet wurden."
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
 msgid "Purchase orders that include lines not invoiced."
-msgstr ""
+msgstr "Bestellen mit nicht abgerechneten Zeilen."
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_invoice_plan__purchase_id
 msgid "Purchases Order"
-msgstr ""
+msgstr "Bestellung"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
 msgid "Quotations"
-msgstr ""
+msgstr "Angebote"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_form
 msgid "Related Bills"
-msgstr ""
+msgstr "Zugehörige Rechnungen"
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
@@ -333,7 +333,7 @@ msgstr "Art"
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,field_description:purchase_invoice_plan.field_purchase_order__use_invoice_plan
 msgid "Use Invoice Plan"
-msgstr ""
+msgstr "Nutze Rechnungslauf"
 
 #. module: purchase_invoice_plan
 #: code:addons/purchase_invoice_plan/models/purchase.py:0
@@ -349,7 +349,7 @@ msgstr ""
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.view_purchase_invoice_plan_filter
 msgid "Waiting Bills"
-msgstr ""
+msgstr "Abzurechnende Rechnungen"
 
 #. module: purchase_invoice_plan
 #: model:ir.model,name:purchase_invoice_plan.model_purchase_make_planned_invoice
@@ -359,12 +359,12 @@ msgstr ""
 #. module: purchase_invoice_plan
 #: model:ir.model.fields.selection,name:purchase_invoice_plan.selection__purchase_create_invoice_plan__interval_type__year
 msgid "Year"
-msgstr ""
+msgstr "Jahr"
 
 #. module: purchase_invoice_plan
 #: model:ir.model.fields,help:purchase_invoice_plan.field_purchase_invoice_plan__partner_id
 msgid "You can find a vendor by its Name, TIN, Email or Internal Reference."
-msgstr ""
+msgstr "Sie können einen Hersteller nach Name, TIN, E-Mail oder Interne Referenz finden."
 
 #. module: purchase_invoice_plan
 #: model_terms:ir.ui.view,arch_db:purchase_invoice_plan.purchase_order_form
