@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_substate/i18n/purchase_substate.pot\n"
 "X-Crowdin-File-ID: 4548\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:54\n"
+"PO-Revision-Date: 2022-08-18 10:13\n"
 
 #. module: purchase_substate
 #: model:mail.template,body_html:purchase_substate.mail_template_data_purchase_substate_wait_docs
@@ -86,7 +86,7 @@ msgstr ""
 #. module: purchase_substate
 #: model:ir.model.fields.selection,name:purchase_substate.selection__base_substate_type__model__purchase_order
 msgid "Purchase order"
-msgstr ""
+msgstr "Bestellung"
 
 #. module: purchase_substate
 #: model:target.state.value,name:purchase_substate.target_state_value_draft
