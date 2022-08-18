@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_approved/i18n/purchase_order_approved.pot\n"
 "X-Crowdin-File-ID: 4444\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 10:13\n"
+"PO-Revision-Date: 2022-08-18 12:11\n"
 
 #. module: purchase_order_approved
 #: model_terms:ir.ui.view,arch_db:purchase_order_approved.view_purchase_configuration
@@ -40,7 +40,7 @@ msgstr "Genehmigt"
 #. module: purchase_order_approved
 #: model_terms:ir.ui.view,arch_db:purchase_order_approved.view_purchase_order_filter
 msgid "Approved Orders"
-msgstr ""
+msgstr "Bestätigte Bestellungen"
 
 #. module: purchase_order_approved
 #: model:ir.model,name:purchase_order_approved.model_res_company
@@ -55,7 +55,7 @@ msgstr "Unternehmen"
 #. module: purchase_order_approved
 #: model_terms:ir.ui.view,arch_db:purchase_order_approved.purchase_order_form
 msgid "Convert to Purchase Order"
-msgstr ""
+msgstr "In Bestellung umwandeln"
 
 #. module: purchase_order_approved
 #: model:ir.model.fields,field_description:purchase_order_approved.field_purchase_order__currency_id
@@ -65,7 +65,7 @@ msgstr "Währung"
 #. module: purchase_order_approved
 #: model:ir.model.fields,field_description:purchase_order_approved.field_purchase_order__picking_type_id
 msgid "Deliver To"
-msgstr ""
+msgstr "Lieferung an"
 
 #. module: purchase_order_approved
 #: model:ir.model.fields,help:purchase_order_approved.field_purchase_order__date_order
