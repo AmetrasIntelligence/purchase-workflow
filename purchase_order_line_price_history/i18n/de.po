@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_line_price_history/i18n/purchase_order_line_price_history.pot\n"
 "X-Crowdin-File-ID: 4452\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 12:11\n"
+"PO-Revision-Date: 2022-08-18 14:23\n"
 
 #. module: purchase_order_line_price_history
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_price_history.purchase_order_line_price_history_view_form
@@ -106,7 +106,7 @@ msgstr "Bestelldatum"
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history_line__order_id
 msgid "Order Reference"
-msgstr ""
+msgstr "Bestellreferenz"
 
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history_line__partner_id
@@ -116,12 +116,12 @@ msgstr "Kontakt"
 #. module: purchase_order_line_price_history
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_price_history.purchase_order_form
 msgid "Price history"
-msgstr ""
+msgstr "Preisverlauf"
 
 #. module: purchase_order_line_price_history
 #: model:ir.actions.act_window,name:purchase_order_line_price_history.purchase_order_line_price_history_action
 msgid "Price history per supplier"
-msgstr ""
+msgstr "Preisverlauf je Lieferant"
 
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history__product_id
@@ -131,7 +131,7 @@ msgstr "Produkt"
 #. module: purchase_order_line_price_history
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_price_history.purchase_order_line_price_history_view_form
 msgid "Purchase history"
-msgstr ""
+msgstr "Einkaufshistorie"
 
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history__purchase_order_line_id
@@ -142,7 +142,7 @@ msgstr "Bestellzeile"
 #. module: purchase_order_line_price_history
 #: model:ir.model,name:purchase_order_line_price_history.model_purchase_order_line_price_history
 msgid "Purchase order line price history"
-msgstr ""
+msgstr "Preishistorie der Bestellzeile"
 
 #. module: purchase_order_line_price_history
 #: model:ir.model,name:purchase_order_line_price_history.model_purchase_order_line_price_history_line
@@ -157,7 +157,7 @@ msgstr "Menge"
 #. module: purchase_order_line_price_history
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_price_history.purchase_order_line_price_history_view_form
 msgid "Set price"
-msgstr ""
+msgstr "Preis festlegen"
 
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history__partner_id
