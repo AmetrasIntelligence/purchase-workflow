@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_line_price_history/i18n/purchase_order_line_price_history.pot\n"
 "X-Crowdin-File-ID: 4452\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 10:13\n"
+"PO-Revision-Date: 2022-08-18 12:11\n"
 
 #. module: purchase_order_line_price_history
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_price_history.purchase_order_line_price_history_view_form
@@ -47,12 +47,12 @@ msgstr "Anzeigename"
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history_line__history_id
 msgid "History"
-msgstr ""
+msgstr "Verlauf"
 
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history__line_ids
 msgid "History lines"
-msgstr ""
+msgstr "Verlauf Zeilen"
 
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history__id
@@ -68,7 +68,7 @@ msgstr ""
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history__include_rfq
 msgid "Include RFQ"
-msgstr ""
+msgstr "RFQ einbeziehen"
 
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history__include_commercial_partner
