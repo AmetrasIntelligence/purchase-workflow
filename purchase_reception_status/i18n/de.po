@@ -14,18 +14,18 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_reception_status/i18n/purchase_reception_status.pot\n"
 "X-Crowdin-File-ID: 4522\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:54\n"
+"PO-Revision-Date: 2022-08-18 14:23\n"
 
 #. module: purchase_reception_status
 #: model:ir.model.fields,field_description:purchase_reception_status.field_purchase_order__force_received
 msgid "Force Received"
-msgstr ""
+msgstr "Erhalten Erzwingen"
 
 #. module: purchase_reception_status
 #: model:ir.model.fields.selection,name:purchase_reception_status.selection__purchase_order__reception_status__received
 #: model_terms:ir.ui.view,arch_db:purchase_reception_status.view_purchase_order_filter
 msgid "Fully Received"
-msgstr ""
+msgstr "Vollständig erhalten"
 
 #. module: purchase_reception_status
 #: model:ir.model.fields,help:purchase_reception_status.field_purchase_order__force_received
@@ -35,17 +35,17 @@ msgstr ""
 #. module: purchase_reception_status
 #: model_terms:ir.ui.view,arch_db:purchase_reception_status.view_purchase_order_filter
 msgid "Not Fully Received"
-msgstr ""
+msgstr "Nicht vollständig erhalten"
 
 #. module: purchase_reception_status
 #: model:ir.model.fields.selection,name:purchase_reception_status.selection__purchase_order__reception_status__no
 msgid "Nothing Received"
-msgstr ""
+msgstr "Nichts Erhalten"
 
 #. module: purchase_reception_status
 #: model:ir.model.fields.selection,name:purchase_reception_status.selection__purchase_order__reception_status__partial
 msgid "Partially Received"
-msgstr ""
+msgstr "Teilweise erhalten"
 
 #. module: purchase_reception_status
 #: model:ir.model,name:purchase_reception_status.model_purchase_order
@@ -56,5 +56,5 @@ msgstr "Bestellung"
 #: model:ir.model.fields,field_description:purchase_reception_status.field_purchase_order__reception_status
 #: model_terms:ir.ui.view,arch_db:purchase_reception_status.view_purchase_order_filter
 msgid "Reception Status"
-msgstr ""
+msgstr "Empfang Status"
 
