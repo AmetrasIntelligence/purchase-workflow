@@ -14,13 +14,13 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_reception_notify/i18n/purchase_reception_notify.pot\n"
 "X-Crowdin-File-ID: 4520\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:54\n"
+"PO-Revision-Date: 2022-08-18 14:23\n"
 
 #. module: purchase_reception_notify
 #: code:addons/purchase_reception_notify/models/stock_picking.py:0
 #, python-format
 msgid "<li><b>%s</b>: Received quantity %s %s</li>"
-msgstr ""
+msgstr "<li><b>%s</b>: Empfangene Menge %s %s</li>"
 
 #. module: purchase_reception_notify
 #: model:mail.message.subtype,name:purchase_reception_notify.mt_purchase_reception
@@ -42,5 +42,5 @@ msgstr ""
 #. module: purchase_reception_notify
 #: model:ir.model,name:purchase_reception_notify.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "Bewegungen"
 
