@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_order_line_price_history/i18n/purchase_order_line_price_history.pot\n"
 "X-Crowdin-File-ID: 4452\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-17 09:22\n"
+"PO-Revision-Date: 2022-08-18 10:13\n"
 
 #. module: purchase_order_line_price_history
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_price_history.purchase_order_line_price_history_view_form
@@ -137,7 +137,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history__purchase_order_line_id
 #: model:ir.model.fields,field_description:purchase_order_line_price_history.field_purchase_order_line_price_history_line__purchase_order_line_id
 msgid "Purchase order line"
-msgstr ""
+msgstr "Bestellzeile"
 
 #. module: purchase_order_line_price_history
 #: model:ir.model,name:purchase_order_line_price_history.model_purchase_order_line_price_history
@@ -177,5 +177,5 @@ msgstr "Maßeinheit"
 #. module: purchase_order_line_price_history
 #: model:ir.model.fields,help:purchase_order_line_price_history.field_purchase_order_line_price_history_line__partner_id
 msgid "You can find a vendor by its Name, TIN, Email or Internal Reference."
-msgstr ""
+msgstr "Sie können einen Hersteller nach Name, TIN, E-Mail oder Interne Referenz finden."
 
