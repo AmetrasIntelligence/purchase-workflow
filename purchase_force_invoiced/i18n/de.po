@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_force_invoiced/i18n/purchase_force_invoiced.pot\n"
 "X-Crowdin-File-ID: 4420\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:53\n"
+"PO-Revision-Date: 2022-08-18 10:13\n"
 
 #. module: purchase_force_invoiced
 #: model:ir.model.fields,field_description:purchase_force_invoiced.field_purchase_order__force_invoiced
 msgid "Force invoiced"
-msgstr ""
+msgstr "Erzwinge Rechnungsstellung"
 
 #. module: purchase_force_invoiced
 #: model:ir.model,name:purchase_force_invoiced.model_purchase_order
@@ -34,5 +34,5 @@ msgstr "Angebotsanfragen Position"
 #. module: purchase_force_invoiced
 #: model:ir.model.fields,help:purchase_force_invoiced.field_purchase_order__force_invoiced
 msgid "When you set this field, the purchase order will be considered as fully billed, even when there may be ordered or delivered quantities pending to bill."
-msgstr ""
+msgstr "Wenn Sie dieses Feld setzen, wird die Bestellung als vollständig abgerechnet behandelt, auch wenn bestellte oder gelieferte Mengen noch nicht abgerechnet wurden."
 
