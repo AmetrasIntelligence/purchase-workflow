@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_deposit/i18n/purchase_deposit.pot\n"
 "X-Crowdin-File-ID: 4414\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:53\n"
+"PO-Revision-Date: 2022-08-18 10:13\n"
 
 #. module: purchase_deposit
 #: model:ir.model.fields,help:purchase_deposit.field_purchase_advance_payment_inv__deposit_account_id
 msgid "Account used for deposits"
-msgstr ""
+msgstr "Konto für Einzahlungen"
 
 #. module: purchase_deposit
 #: code:addons/purchase_deposit/wizard/purchase_make_invoice_advance.py:0
@@ -40,7 +40,7 @@ msgstr "Rechnungslauf jetzt starten"
 #. module: purchase_deposit
 #: model_terms:ir.ui.view,arch_db:purchase_deposit.view_purchase_advance_payment_inv
 msgid "Create and View Invoices"
-msgstr ""
+msgstr "Rechnungen erstellen und anzeigen"
 
 #. module: purchase_deposit
 #: model:ir.model.fields,field_description:purchase_deposit.field_purchase_advance_payment_inv__create_uid
@@ -61,27 +61,27 @@ msgstr ""
 #: code:addons/purchase_deposit/wizard/purchase_make_invoice_advance.py:0
 #, python-format
 msgid "Deposit Payment"
-msgstr ""
+msgstr "Pfandzahlung"
 
 #. module: purchase_deposit
 #: model:ir.model.fields,field_description:purchase_deposit.field_purchase_advance_payment_inv__amount
 msgid "Deposit Payment Amount"
-msgstr ""
+msgstr "Pfandwert"
 
 #. module: purchase_deposit
 #: model:ir.model.fields,field_description:purchase_deposit.field_purchase_advance_payment_inv__purchase_deposit_product_id
 msgid "Deposit Payment Product"
-msgstr ""
+msgstr "Pfandartikel"
 
 #. module: purchase_deposit
 #: model_terms:ir.ui.view,arch_db:purchase_deposit.res_config_settings_view_form_purchase
 msgid "Deposit Payments"
-msgstr ""
+msgstr "Pfandzahlungen"
 
 #. module: purchase_deposit
 #: model:ir.model.fields.selection,name:purchase_deposit.selection__purchase_advance_payment_inv__advance_payment_method__fixed
 msgid "Deposit payment (fixed amount)"
-msgstr ""
+msgstr "Pfandzahlung (Fester Betrag)"
 
 #. module: purchase_deposit
 #: model:ir.model.fields,help:purchase_deposit.field_purchase_order_line__is_deposit
@@ -111,12 +111,12 @@ msgstr "ID"
 #. module: purchase_deposit
 #: model:ir.actions.act_window,name:purchase_deposit.action_view_purchase_advance_payment_inv
 msgid "Invoice Order"
-msgstr ""
+msgstr "Rechnung Bestellung"
 
 #. module: purchase_deposit
 #: model_terms:ir.ui.view,arch_db:purchase_deposit.view_purchase_advance_payment_inv
 msgid "Invoice Purchases Order"
-msgstr ""
+msgstr "Rechnung Einkäufe Bestellung"
 
 #. module: purchase_deposit
 #: model_terms:ir.ui.view,arch_db:purchase_deposit.view_purchase_advance_payment_inv
