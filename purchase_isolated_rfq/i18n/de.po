@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_isolated_rfq/i18n/purchase_isolated_rfq.pot\n"
 "X-Crowdin-File-ID: 4424\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:53\n"
+"PO-Revision-Date: 2022-08-18 10:13\n"
 
 #. module: purchase_isolated_rfq
 #: model_terms:ir.ui.view,arch_db:purchase_isolated_rfq.purchase_order_form
@@ -24,7 +24,7 @@ msgstr "Abbrechen"
 #. module: purchase_isolated_rfq
 #: model_terms:ir.ui.view,arch_db:purchase_isolated_rfq.purchase_order_form
 msgid "Convert to Order"
-msgstr ""
+msgstr "In Bestellung umwandeln"
 
 #. module: purchase_isolated_rfq
 #: model:ir.model.fields,help:purchase_isolated_rfq.field_purchase_order__quote_id
@@ -66,7 +66,7 @@ msgstr "Bestellung"
 #: code:addons/purchase_isolated_rfq/models/purchase_order.py:0
 #, python-format
 msgid "Purchases Order"
-msgstr ""
+msgstr "Bestellung"
 
 #. module: purchase_isolated_rfq
 #: model:ir.model.fields,field_description:purchase_isolated_rfq.field_purchase_order__quote_id
@@ -76,5 +76,5 @@ msgstr "Angebot"
 #. module: purchase_isolated_rfq
 #: model:ir.model.fields,field_description:purchase_isolated_rfq.field_purchase_order__rfq_state
 msgid "RFQ Status"
-msgstr ""
+msgstr "RFQ Status"
 
