@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_location_by_line/i18n/purchase_location_by_line.pot\n"
 "X-Crowdin-File-ID: 4432\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:53\n"
+"PO-Revision-Date: 2022-08-18 12:11\n"
 
 #. module: purchase_location_by_line
 #: model:ir.model.fields,field_description:purchase_location_by_line.field_purchase_order_line__location_dest_id
 msgid "Destination"
-msgstr ""
+msgstr "Ziel"
 
 #. module: purchase_location_by_line
 #: model:ir.model,name:purchase_location_by_line.model_purchase_order_line
@@ -29,5 +29,5 @@ msgstr "Angebotsanfragen Position"
 #. module: purchase_location_by_line
 #: model:ir.model,name:purchase_location_by_line.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "Bewegungen"
 
