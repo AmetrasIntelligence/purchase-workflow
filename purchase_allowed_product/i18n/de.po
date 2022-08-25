@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.purchase-workflow] 13.0/purchase_allowed_product/i18n/purchase_allowed_product.pot\n"
 "X-Crowdin-File-ID: 4398\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-18 10:13\n"
+"PO-Revision-Date: 2022-08-25 09:17\n"
 
 #. module: purchase_allowed_product
 #: model:ir.model,name:purchase_allowed_product.model_res_partner
@@ -63,7 +63,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:purchase_allowed_product.field_res_partner__use_only_supplied_product
 #: model:ir.model.fields,field_description:purchase_allowed_product.field_res_users__use_only_supplied_product
 msgid "Order and invoice only supplied products"
-msgstr ""
+msgstr "Auftrag und Rechnung nur für gelieferte Produkte"
 
 #. module: purchase_allowed_product
 #: model:ir.model,name:purchase_allowed_product.model_product_product
