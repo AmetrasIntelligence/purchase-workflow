@@ -1,0 +1,15 @@
+{
+    "name": "Purchase Last Price and Operating Unit",
+    "summary": "Purchase Operating Unit",
+    "version": "13.0.1.0.0",
+    "category": "purchase",
+    "author": "Ametras intelligence GmbH,Odoo Community Association (OCA)",
+    "website": "https://github.com/OCA/purchase-workflow",
+    "maintainer": "Ametras intelligence GmbH",
+    "depends": ["purchase_operating_unit", "purchase_last_price_info"],
+    "data": [],
+    "license": "AGPL-3",
+    "installable": True,
+    "application": False,
+    "auto_install": True,
+}
