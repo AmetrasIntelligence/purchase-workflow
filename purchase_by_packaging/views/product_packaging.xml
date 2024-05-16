@@ -7,7 +7,10 @@
         <field name="arch" type="xml">
             <field name="qty" position="after">
                 <field name="can_be_purchased" />
-                <field name="force_purchase_qty" />
+                <field
+                    name="force_purchase_qty"
+                    string="Ignore Purchase Rounding Precision"
+                />
             </field>
         </field>
     </record>
@@ -22,7 +25,10 @@
             <group id="purchase_group" position="inside">
                 <field name="can_be_purchased" />
                 <field name="purchase_rounding" />
-                <field name="force_purchase_qty" />
+                <field
+                    name="force_purchase_qty"
+                    string="Ignore Purchase Rounding Precision"
+                />
             </group>
         </field>
     </record>
